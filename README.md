@@ -1,6 +1,6 @@
 
 
-**Nedya Ibrahim** 
+## **Nedya Ibrahim** 
 
 *Aspiring AI & Machine learning developer*
 
